@@ -1,0 +1,4 @@
+enum versaoAnime {
+  CLASSICO,
+  LOSTCANVAS
+}
